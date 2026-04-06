@@ -16,5 +16,6 @@ Una aplicación de clima moderna, rápida y con un diseño elegante (Glassmorphi
 * OpenWeather API
 
 ## 🌐 Demo
-Puedes ver la aplicación funcionando en vivo aquí:
-[https://estebanzeaalvarez.github.io/My-New-Weather-App/](https://estebanzeaalvarez.github.io/My-New-Weather-App/)
+
+Puedes ver la aplicación funcionando en vivo haciendo clic aquí:  
+👉 **[Ver App de Clima en Vivo](https://estebanzeaalvarez.github.io/My-New-Weather-App/)**
